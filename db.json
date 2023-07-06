@@ -5,5 +5,13 @@
     {"value": "b", "label": "label_b", "disabled": "false"},
     {"value": "c", "label": "label_c", "disabled": "false"},
     {"value": "d", "label": "label_d", "disabled": "false"}
-  ]
+  ],
+  "login": {
+    "userInfo": {
+      "userId": "u12345",
+      "role": "会社Z",
+      "lang": "jp"
+    },
+    "success": "true"
+  }
 }
