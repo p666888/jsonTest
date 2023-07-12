@@ -8,7 +8,7 @@
       {"value": "d", "label": "label_d", "disabled": "false"},
       {"value": "e", "label": "label_e", "disabled": "false"}
     ],
-    "success": "false"
+    "success": "true"
   },
   "login": {
     "userInfo": {
