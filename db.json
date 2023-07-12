@@ -1,13 +1,13 @@
 {
   "parameter": {
-    values: [
+    "values": [
       {"value": "none", "label": "選択してください", "disabled": "true"},
       {"value": "a", "label": "label_a", "disabled": "false"},
       {"value": "b", "label": "label_b", "disabled": "false"},
       {"value": "c", "label": "label_c", "disabled": "false"},
       {"value": "d", "label": "label_d", "disabled": "false"}
     ],
-    success: true
+    "success": "true"
   },
   "login": {
     "userInfo": {
