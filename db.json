@@ -5,7 +5,8 @@
       {"value": "a", "label": "label_a", "disabled": "false"},
       {"value": "b", "label": "label_b", "disabled": "false"},
       {"value": "c", "label": "label_c", "disabled": "false"},
-      {"value": "d", "label": "label_d", "disabled": "false"}
+      {"value": "d", "label": "label_d", "disabled": "false"},
+      {"value": "e", "label": "label_e", "disabled": "false"}
     ],
     "success": "false"
   },
