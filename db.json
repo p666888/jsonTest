@@ -17,7 +17,7 @@
       "lang": "jp"
     },
     "success": "true"
-  }
+  },
   "usersList": [
     { "key": "user1", "value": "ユーザー1" },
     { "key": "user2", "value": "ユーザー2" },
