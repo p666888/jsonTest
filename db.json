@@ -25,5 +25,13 @@
     { "key": "user4", "value": "ユーザー4" },
     { "key": "user5", "value": "ユーザー5" },
     { "key": "user6", "value": "ユーザー6" }
+  ],
+  "parameterList": [
+    {"value": "none", "label": "選択してください", "disabled": "true"},
+    {"value": "a", "label": "label_a", "disabled": "false"},
+    {"value": "b", "label": "label_b", "disabled": "false"},
+    {"value": "c", "label": "label_c", "disabled": "false"},
+    {"value": "d", "label": "label_d", "disabled": "false"},
+    {"value": "e", "label": "label_e", "disabled": "false"}
   ]
 }
