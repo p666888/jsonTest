@@ -33,5 +33,11 @@
     {"value": "c", "label": "label_c", "disabled": "false"},
     {"value": "d", "label": "label_d", "disabled": "false"},
     {"value": "e", "label": "label_e", "disabled": "false"}
-  ]
+  ],
+  "itemsUsersList": [
+    {"user_id": "user1","user_name": "nm1","item_code": "006","item_name": "品目6","created_by": "user1","created_at": "2023-08-01","updated_by": "user2","updated_at": "2023-08-02"},
+    {"user_id": "user2","user_name": "nm2","item_code": "007","item_name": "品目7","created_by": "user1","created_at": "2023-08-01","updated_by": "user2","updated_at": "2023-08-02"},
+    {"user_id": "user3","user_name": "nm3","item_code": "008","item_name": "品目8","created_by": "user1","created_at": "2023-08-01","updated_by": "user2","updated_at": "2023-08-02"},
+    {"user_id": "user4","user_name": "nm4","item_code": "009","item_name": "品目9","created_by": "user1","created_at": "2023-08-01","updated_by": "user2","updated_at": "2023-08-02"}
+  ],
 }
