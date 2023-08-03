@@ -36,8 +36,8 @@
   ],
   "itemsUsersList": [
     {"user_id": "user1", "user_name": "nm1", "item_code": "1", "item_name": "品目1", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
-    {"user_id": "user2", "user_name": "nm2", "item_code": "2", "item_name": "品目2", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
-    {"user_id": "user3", "user_name": "nm3", "item_code": "3", "item_name": "品目3", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
+    {"user_id": "user1", "user_name": "nm1", "item_code": "2", "item_name": "品目2", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
+    {"user_id": "user1", "user_name": "nm1", "item_code": "3", "item_name": "品目3", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
     {"user_id": "user4", "user_name": "nm4", "item_code": "4", "item_name": "品目4", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
     {"user_id": "user5", "user_name": "nm5", "item_code": "5", "item_name": "品目5", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
     {"user_id": "user6", "user_name": "nm6", "item_code": "6", "item_name": "品目6", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
