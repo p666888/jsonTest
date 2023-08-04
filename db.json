@@ -49,12 +49,5 @@
     {"user_id": "user23", "user_name": "nm23", "item_code": "023", "item_name": "品目", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
     {"user_id": "user24", "user_name": "nm24", "item_code": "024", "item_name": "品目", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"},
     {"user_id": "user25", "user_name": "nm25", "item_code": "025", "item_name": "品目", "created_by": "user1", "created_at": "2023-08-01", "updated_by": "user2", "updated_at": "2023-08-02"}
-  ],
-  "registerResponse": {
-    "count_create_success": 20,
-    "count_update_success": 80,
-    "count_cancel_success": 1,
-    "count_error": 0,
-    "error_messages": ""
-  }
+  ]
 }
