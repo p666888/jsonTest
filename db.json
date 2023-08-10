@@ -1,8 +1,8 @@
 {
   "login": {
-    userId: 's1234',
-    userStatus: "manager",
-    expired: "2023-12-31"
+    "userId": "s1234",
+    "userStatus": "manager",
+    "expired": "2023-12-31"
   },
   "usersList": [
     { "value": "user1", "label": "ユーザー1" },
