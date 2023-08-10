@@ -1,11 +1,8 @@
 {
   "login": {
-    "userInfo": {
-      "userId": "user1",
-      "role": "manager",
-      "lang": "jp"
-    },
-    "success": "true"
+    userId: 's1234',
+    userStatus: "manager",
+    expired: "2023-12-31"
   },
   "usersList": [
     { "value": "user1", "label": "ユーザー1" },
